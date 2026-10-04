@@ -1,1 +1,1 @@
-# Final-Project
+The website works simply. You paste a link or URL from any email or any website that you may be unsure of is harmful. Once you paste the link ai automatically looks at every feature involved on the website to see if it is safe enough or harmful. This includes copy and pasting emails. You can also link the sender to add additional context (optional).
